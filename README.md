@@ -5,6 +5,9 @@ Automate wood log analysis using YOLOv8 and YOLOv5.
 ## Purpose
 The purpose of this project is to automate the wood log analysis and minimise the human intervention.
 
+## Output
+The output that we'll be getting in a CSV file. 
+
 ## Dependencies
 Make sure you have the following dependencies installed before running the code:
 - [Ultralytics](https://github.com/ultralytics/yolov5)
